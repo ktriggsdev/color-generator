@@ -24,3 +24,4 @@ button.addEventListener("click", () => {
     // document.body.style = `background-color: ${generateRandomColor}`;
     // text.textContent = generateRandomColor;
 // });
+
